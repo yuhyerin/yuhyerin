@@ -1,4 +1,4 @@
-### 화이팅 ><! 👋
+### 문제를 푼지 언젠지...
 
 <!--
 **yuhyerin/yuhyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
