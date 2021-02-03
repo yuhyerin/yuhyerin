@@ -1,4 +1,4 @@
-### 문제를 푼지 언젠지...
+### hello
 
 <!--
 **yuhyerin/yuhyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=riri0304)](https://solved.ac/riri0304)
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=riri0304)](https://solved.ac/riri0304) -->
