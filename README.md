@@ -16,8 +16,8 @@
   </a>
   
   <h2> Algorithm </h2>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=riri0304"/>
 </div>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=riri0304)](https://solved.ac/riri0304)
 
 
 <!--
