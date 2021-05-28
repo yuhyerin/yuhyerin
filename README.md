@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hyerin's%20GitHub&fontSize=70&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=FCB6D0&height=250&section=header&text=Hyerin's%20GitHub&fontSize=60&animation=scaleIn"/>
   <h2> Technology Stack📚 </h2>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
