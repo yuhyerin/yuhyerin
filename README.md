@@ -1,9 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hyerin's%20GitHub&fontSize=70&animation=scaleIn)
+<div align='center'>
+  <h2> Technology Stack📚 </h2>
+  <p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  </p>
+  <h2> My stats 🤓 </h2>
+  ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhyerin&show_icons=true)
+  <h2> About Me👩‍💻 </h2>
+  <a href="https://velog.io/@yuhyerin">
+    <img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
+  </a>
+</div>
 
-<p align="center"> <h3> Technology Stack📚 </h3> </p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
 hello
