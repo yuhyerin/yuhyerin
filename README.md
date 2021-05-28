@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hyerin's%20GitHub&fontSize=70&animation=scaleIn)
-<img src="https://img.shields.io/badge/spring-green?style=flat-square&logo=#6DB33F&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 ### hello
