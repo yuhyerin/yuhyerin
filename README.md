@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hyerin's%20GitHub&fontSize=70&animation=scaleIn)
 <div align='center'>
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hyerin's%20GitHub&fontSize=70&animation=scaleIn)
   <h2> Technology Stack📚 </h2>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -16,9 +16,6 @@
   </a>
 </div>
 
-
-
-hello
 
 <!--
 **yuhyerin/yuhyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
