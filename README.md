@@ -7,7 +7,12 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   </p>
   <h2> My stats 🤓 </h2>
-  ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhyerin&show_icons=true)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuhyerin&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuhyerin&repo=convoychat" />
+  </a>
   <h2> About Me👩‍💻 </h2>
   <a href="https://velog.io/@yuhyerin">
     <img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
