@@ -14,6 +14,7 @@
   <a href="https://velog.io/@yuhyerin">
     <img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
   </a>
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=riri0304)](https://solved.ac/riri0304)
 </div>
 
 
