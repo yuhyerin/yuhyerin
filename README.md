@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   </p>
   <h2> My stats 🤓 </h2>
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=yuhyerin&show_icons=true&theme=radical"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyerin&layout=compact"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=yuhyerin&show_icons=true&theme=radical"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyerin&layout=compact"/> -->
 
 <!--   <h2> About Me👩‍💻 </h2>
   <a href="https://velog.io/@yuhyerin">
